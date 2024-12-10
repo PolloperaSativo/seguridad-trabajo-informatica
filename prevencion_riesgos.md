@@ -38,7 +38,6 @@ Haz pausas activas cada hora con estiramientos sencillos:
 - **Mayor Productividad**: Un espacio optimizado mejora tu rendimiento y bienestar.
 - **Ambiente Seguro**: Fomentas un entorno libre de riesgos y más saludable.
 
-¡Haz de tu espacio de trabajo tu mejor aliado para el éxito! 🚀
 
 
 

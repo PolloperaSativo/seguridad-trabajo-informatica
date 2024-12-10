@@ -1,6 +1,9 @@
 # 🛠️ Un espacio de Trabajo Seguro y Saludable 🏡
 
-Crear un espacio de trabajo cómodo, ergonómico y libre de distracciones es clave para mejorar tu salud física y mental. Aquí te dejamos algunos consejos prácticos para optimizar tu entorno de trabajo. 🖥️✨
+ Crear un espacio de trabajo cómodo, ergonómico y libre de distracciones es clave para mejorar tu salud física y mental.  🖥️✨
+
+![image](https://github.com/user-attachments/assets/64ead51e-0089-40a7-aece-48573e8a5b52)
+
 
 ---
 

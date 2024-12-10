@@ -1,3 +1,5 @@
+# 1.2 Identificación de riesgos laborales en la informática
+
 La **identificación de riesgos laborales en el ámbito de la informática** es crucial, ya que, aunque el trabajo informático puede parecer menos peligroso que otros campos, presenta riesgos únicos 
 relacionados con el entorno laboral, el uso prolongado de dispositivos electrónicos y la gestión de datos sensibles.
 

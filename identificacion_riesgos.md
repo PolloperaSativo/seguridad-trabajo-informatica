@@ -25,5 +25,5 @@ Otro aspecto crucial es la seguridad de la información. Los profesionales de TI
 Para mitigar estos riesgos, es fundamental adoptar estaciones de trabajo ergonómicas, promover pausas activas, establecer límites claros en el teletrabajo y capacitar a los empleados en buenas prácticas, tanto de seguridad como de salud. La identificación temprana y la prevención son esenciales para garantizar el bienestar en un entorno tecnológico cada vez más exigente.
 
 <p align="center">
-  <img src="/img/ergonomia.jpg" alt="Ergonomia" style="width: 300px; height: auto;" />
+  <img src="/img/ergonomia.jpg" alt="Ergonomia" style="width: 60%px; height: auto;" />
 </p>

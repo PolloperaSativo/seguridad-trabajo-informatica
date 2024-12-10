@@ -4,7 +4,7 @@ Crear un espacio de trabajo cómodo, ergonómico y libre de distracciones es cla
 
 ---
 
-## 1️⃣ **Diseña un Espacio Ergonómico**  
+## 1️⃣ **Crea un Espacio Ergonómico**  
 Ajusta tu silla y escritorio para mantener una postura saludable. 👩‍💻
 
 - La silla debe permitir que tus pies toquen el suelo o un reposapiés 👣.
